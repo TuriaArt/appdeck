@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import "./styles/style.css";
+
+@theme inline {
+  --color-slate-100: var(--text);
+  --color-slate-200: var(--text-secondary);
+  --color-slate-300: var(--text-secondary);
+  --color-slate-400: var(--text-muted);
+  --color-slate-500: var(--text-muted);
+  --color-slate-600: var(--text-faint);
+  --color-slate-700: var(--text-faint);
+}

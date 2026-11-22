@@ -1,0 +1,64 @@
+{
+  "name": "react-vite-tailwind",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "Локальная библиотека программ Windows",
+  "author": "turiaart",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "electron:dev": "node scripts/electron-dev.mjs",
+    "electron:start": "node scripts/electron-start.mjs",
+    "dist": "vite build && electron-builder"
+  },
+  "dependencies": {
+    "clsx": "2.1.1",
+    "lucide-react": "^1.75.0",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "tailwind-merge": "3.4.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "4.1.17",
+    "@types/node": "22.19.17",
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
+    "@vitejs/plugin-react": "5.1.1",
+    "electron": "^41.7.1",
+    "electron-builder": "^26.18.0",
+    "tailwindcss": "4.1.17",
+    "typescript": "5.9.3",
+    "vite": "7.3.7",
+    "vite-plugin-singlefile": "2.3.0"
+  },
+  "main": "electron/main.cjs",
+  "allowScripts": {
+    "electron@41.7.1": true,
+    "esbuild@0.28.2": true
+  },
+  "build": {
+    "appId": "space.turiaart.appdeck",
+    "productName": "AppDeck",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**",
+      "electron/**",
+      "src/data/**",
+      "package.json"
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "build/icon.png"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "artifactName": "AppDeck-Setup-${version}.exe"
+    }
+  }
+}

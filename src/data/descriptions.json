@@ -1,0 +1,1508 @@
+{
+  "_comment": "// TODO: заменить статические описания на реальный поиск через API.",
+  "AniCraft": {
+    "description": "2D-векторная анимация",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Rive",
+      "Adobe Animate",
+      "Synfig Studio"
+    ],
+    "category": "craft"
+  },
+  "ArtCraft Launcher": {
+    "description": "лаунчер набора Craft App Suite",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Adobe Creative Cloud",
+      "Affinity Suite"
+    ],
+    "category": "craft"
+  },
+  "CADCraft": {
+    "description": "автоматизированное проектирование (CAD)",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Autodesk Fusion",
+      "FreeCAD",
+      "SolidWorks"
+    ],
+    "category": "craft"
+  },
+  "Craft Anything": {
+    "description": "узнай, как устроена любая программа, и собери свою",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Scratch",
+      "Godot Engine"
+    ],
+    "category": "craft"
+  },
+  "DeckCraft": {
+    "description": "презентации и слайд-шоу",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Microsoft PowerPoint",
+      "Keynote",
+      "LibreOffice Impress"
+    ],
+    "category": "craft"
+  },
+  "DesignCraft": {
+    "description": "вёрстка и издательское дело",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Affinity Publisher",
+      "Adobe InDesign",
+      "Scribus"
+    ],
+    "category": "craft"
+  },
+  "EffectCraft": {
+    "description": "моушн-графика и визуальные эффекты",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Adobe After Effects",
+      "Blackmagic Fusion",
+      "Natron"
+    ],
+    "category": "craft"
+  },
+  "FigCraft": {
+    "description": "дизайн интерфейсов и прототипирование",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Figma",
+      "Penpot",
+      "Sketch"
+    ],
+    "category": "craft"
+  },
+  "FilmCraft": {
+    "description": "монтаж видео, цветокоррекция и звук",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "DaVinci Resolve",
+      "Adobe Premiere Pro",
+      "Shotcut"
+    ],
+    "category": "craft"
+  },
+  "GridCraft": {
+    "description": "электронные таблицы и данные",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Microsoft Excel",
+      "LibreOffice Calc",
+      "Google Sheets"
+    ],
+    "category": "craft"
+  },
+  "LightCraft": {
+    "description": "работа со светом и постановка освещения в 3D-сценах",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Blender",
+      "HDR Light Studio",
+      "KeyShot"
+    ],
+    "category": "craft"
+  },
+  "MailCraft": {
+    "description": "почтовый клиент для работы с письмами из набора Craft App Suite",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Mozilla Thunderbird",
+      "Microsoft Outlook",
+      "Apple Mail"
+    ],
+    "category": "craft"
+  },
+  "MaterialCraft": {
+    "description": "создание процедурных материалов",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Substance 3D Designer",
+      "Material Maker",
+      "Blender"
+    ],
+    "category": "craft"
+  },
+  "PdfCraft": {
+    "description": "чтение, упорядочивание и защита PDF",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Adobe Acrobat",
+      "PDF-XChange Editor",
+      "SumatraPDF"
+    ],
+    "category": "craft"
+  },
+  "PhotoCraft": {
+    "description": "просмотр, редактирование и ретушь фотографий",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Adobe Photoshop",
+      "Affinity Photo",
+      "GIMP"
+    ],
+    "category": "craft"
+  },
+  "SolidCraft": {
+    "description": "твердотельное 3D-моделирование деталей и сборок",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Autodesk Fusion",
+      "SolidWorks",
+      "FreeCAD"
+    ],
+    "category": "craft"
+  },
+  "SoundCraft": {
+    "description": "запись, редактирование и сведение звука",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Audacity",
+      "REAPER",
+      "Adobe Audition"
+    ],
+    "category": "craft"
+  },
+  "TextureCraft": {
+    "description": "рисование 3D-текстур",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Substance 3D Painter",
+      "Mari",
+      "ArmorPaint"
+    ],
+    "category": "craft"
+  },
+  "VectorCraft": {
+    "description": "создание векторной графики и иллюстраций",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Adobe Illustrator",
+      "Inkscape",
+      "Affinity Designer"
+    ],
+    "category": "craft"
+  },
+  "WordCraft": {
+    "description": "тексты и оформление документов",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Microsoft Word",
+      "LibreOffice Writer",
+      "Google Docs"
+    ],
+    "category": "craft"
+  },
+  "CMake": {
+    "description": "Кроссплатформенная система сборки, которая управляет компиляцией проекта через декларативные CMakeLists.txt.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/Kitware/CMake",
+    "alternatives": [
+      "Meson",
+      "Bazel",
+      "Premake"
+    ],
+    "category": "dev"
+  },
+  "DB Browser for SQLite": {
+    "description": "Визуальный менеджер баз данных SQLite: просмотр таблиц, выполнение SQL-запросов и редактирование схемы.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/sqlitebrowser/sqlitebrowser",
+    "alternatives": [
+      "DBeaver",
+      "SQLiteStudio",
+      "HeidiSQL"
+    ],
+    "category": "dev"
+  },
+  "FFmpeg": {
+    "description": "Набор консольных утилит для конвертации, записи и обработки аудио и видео практически в любом формате.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/FFmpeg/FFmpeg",
+    "alternatives": [
+      "HandBrake",
+      "Shutter Encoder",
+      "VLC"
+    ],
+    "category": "dev"
+  },
+  "Git": {
+    "description": "Распределённая система контроля версий для отслеживания изменений в коде и совместной работы над проектами.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/git/git",
+    "alternatives": [
+      "Mercurial",
+      "Fossil",
+      "Subversion"
+    ],
+    "category": "dev"
+  },
+  "GitHub CLI": {
+    "description": "Официальный клиент GitHub для терминала: пул-реквесты, задачи, релизы и репозитории без перехода в браузер.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/cli/cli",
+    "alternatives": [
+      "GitLab CLI",
+      "Hub"
+    ],
+    "category": "dev"
+  },
+  "GitHub Copilot CLI": {
+    "description": "ИИ-помощник GitHub в командной строке: подсказывает и объясняет команды, помогает работать с кодом и репозиториями.",
+    "isOpensource": false,
+    "repoUrl": "https://github.com/features/copilot",
+    "alternatives": [
+      "Aider",
+      "Claude Code",
+      "Gemini CLI"
+    ],
+    "category": "dev"
+  },
+  "Microsoft .NET SDK 10.0.201": {
+    "description": "Набор инструментов и библиотек для создания, сборки и запуска приложений на .NET 10.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "dev"
+  },
+  "Microsoft .NET SDK 10.0.404": {
+    "description": "Набор инструментов и библиотек для создания, сборки и запуска приложений на .NET 10.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "dev"
+  },
+  "Microsoft .NET SDK 9.0.203": {
+    "description": "Набор инструментов и библиотек для создания, сборки и запуска приложений на .NET 9.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "dev"
+  },
+  "Microsoft .NET SDK 9.0.321": {
+    "description": "Набор инструментов и библиотек для создания, сборки и запуска приложений на .NET 9.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "dev"
+  },
+  "Microsoft Visual Studio Code": {
+    "description": "Расширяемый редактор кода с подсветкой синтаксиса, отладкой, Git-интеграцией и тысячами расширений.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/microsoft/vscode",
+    "alternatives": [
+      "Zed",
+      "Neovim",
+      "Pulsar",
+      "Sublime Text"
+    ],
+    "category": "dev"
+  },
+  "Microsoft Visual Studio Installer": {
+    "description": "Служебная программа для установки, обновления и настройки компонентов Microsoft Visual Studio.",
+    "isOpensource": false,
+    "repoUrl": "https://visualstudio.microsoft.com/",
+    "alternatives": [
+      "Visual Studio Community",
+      "JetBrains Rider"
+    ],
+    "category": "dev"
+  },
+  "Neovim": {
+    "description": "Гибкий редактор кода на основе Vim с современной архитектурой, LSP и поддержкой плагинов на Lua.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/neovim/neovim",
+    "alternatives": [
+      "Vim",
+      "Helix",
+      "Zed"
+    ],
+    "category": "dev"
+  },
+  "ninja": {
+    "description": "Небольшая и очень быстрая система сборки, ориентированная на минимальное время инкрементальных сборок.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/ninja-build/ninja",
+    "alternatives": [
+      "Meson",
+      "CMake",
+      "Bazel"
+    ],
+    "category": "dev"
+  },
+  "Node.js": {
+    "description": "Среда выполнения JavaScript на движке V8 для серверных приложений, CLI-утилит и инструментов сборки.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/nodejs/node",
+    "alternatives": [
+      "Deno",
+      "Bun"
+    ],
+    "category": "dev"
+  },
+  "Pulsar": {
+    "description": "Открытый редактор кода с системой пакетов, гибкой настройкой интерфейса и поддержкой множества языков.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/pulsar-edit/pulsar",
+    "alternatives": [
+      "Microsoft Visual Studio Code",
+      "Zed",
+      "Neovim"
+    ],
+    "category": "dev"
+  },
+  "Python 3.10": {
+    "description": "Интерпретатор Python 3.10 с менеджером пакетов pip и стандартной библиотекой для разработки на Python.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/python/cpython",
+    "alternatives": [
+      "Anaconda",
+      "PyPy"
+    ],
+    "category": "dev"
+  },
+  "Python 3.12": {
+    "description": "Интерпретатор Python 3.12 с менеджером пакетов pip и улучшениями производительности.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/python/cpython",
+    "alternatives": [
+      "Anaconda",
+      "PyPy"
+    ],
+    "category": "dev"
+  },
+  "Python 3.14": {
+    "description": "Интерпретатор Python 3.14 с полной стандартной библиотекой и инструментами разработчика.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/python/cpython",
+    "alternatives": [
+      "Anaconda",
+      "PyPy"
+    ],
+    "category": "dev"
+  },
+  "Python 3.15": {
+    "description": "Экспериментальная ветка интерпретатора Python 3.15 для проверки проектов на совместимость.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/python/cpython",
+    "alternatives": [
+      "Anaconda",
+      "PyPy"
+    ],
+    "category": "dev"
+  },
+  "Rustup": {
+    "description": "инсталлятор тулчейна Rust",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/rust-lang/rustup",
+    "alternatives": [
+      "mise",
+      "asdf"
+    ],
+    "category": "dev"
+  },
+  "Visual Studio Build Tools 2022": {
+    "description": "Компиляторы MSVC, MSBuild и библиотеки, необходимые для сборки нативных приложений Windows.",
+    "isOpensource": false,
+    "repoUrl": "https://visualstudio.microsoft.com/",
+    "alternatives": [
+      "Clang",
+      "MinGW-w64",
+      "MSYS2"
+    ],
+    "category": "dev"
+  },
+  "vs_CoreEditorFonts": {
+    "description": "шрифты редактора Visual Studio",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Cascadia Code",
+      "JetBrains Mono",
+      "Fira Code"
+    ],
+    "category": "dev"
+  },
+  "Windows SDK": {
+    "description": "Комплект заголовочных файлов, библиотек и утилит для разработки и сборки программ под Windows.",
+    "isOpensource": false,
+    "repoUrl": "https://developer.microsoft.com/windows/downloads/windows-sdk/",
+    "alternatives": [
+      "MinGW-w64",
+      "MSYS2"
+    ],
+    "category": "dev"
+  },
+  "Windows SDK AddOn": {
+    "description": "Дополнительные компоненты Windows SDK, расширяющие набор инструментов и заголовков для разработки.",
+    "isOpensource": false,
+    "repoUrl": "https://developer.microsoft.com/windows/downloads/windows-sdk/",
+    "alternatives": [],
+    "category": "dev"
+  },
+  "Zed": {
+    "description": "Быстрый минималистичный редактор кода с совместным редактированием и нативной поддержкой языков.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/zed-industries/zed",
+    "alternatives": [
+      "Microsoft Visual Studio Code",
+      "Neovim"
+    ],
+    "category": "dev"
+  },
+  "7DeadlySnares": {
+    "description": "Коллекция снейров и перкуссионных сэмплов для создания битов и электронной музыки.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Splice",
+      "Loopcloud"
+    ],
+    "category": "audio"
+  },
+  "A1TriggerGate": {
+    "description": "Аудиоэффект-гейт с MIDI-триггерами для ритмического срезания и модуляции сигнала.",
+    "isOpensource": false,
+    "repoUrl": "https://a1audio.de/",
+    "alternatives": [
+      "Xfer Records LFOTool",
+      "Cableguys ShaperBox",
+      "reFX Rippler"
+    ],
+    "category": "audio"
+  },
+  "Absynth": {
+    "description": "Легендарный полумодульный синтезатор Native Instruments с богатыми текстурами и эффектами.",
+    "isOpensource": false,
+    "repoUrl": "https://www.native-instruments.com/",
+    "alternatives": [
+      "Vital",
+      "Arturia Pigments",
+      "Phase Plant"
+    ],
+    "category": "audio"
+  },
+  "ADSR Orbit": {
+    "description": "Инструмент ADSR для работы с синтезом и готовыми звуковыми пресетами в одном окне.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "audio"
+  },
+  "Airglow": {
+    "description": "Атмосферный инструмент от S1gns Of L1fe для эмбиента, текстурированных пэдов и звукового дизайна.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "audio"
+  },
+  "AIMP": {
+    "description": "Быстрый аудиоплеер с эквалайзером, поддержкой множества форматов, плейлистами и интернет-радио.",
+    "isOpensource": false,
+    "repoUrl": "https://www.aimp.ru/",
+    "alternatives": [
+      "foobar2000",
+      "MusicBee",
+      "VLC"
+    ],
+    "category": "audio"
+  },
+  "Arturia Pigments": {
+    "description": "Гибридный синтезатор Arturia, объединяющий виртуально-аналоговый, сэмпловый и гармонический движки.",
+    "isOpensource": false,
+    "repoUrl": "https://www.arturia.com/",
+    "alternatives": [
+      "Xfer Records Serum 2",
+      "Vital",
+      "Phase Plant"
+    ],
+    "category": "audio"
+  },
+  "Arturia Pure SUB": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "SubLab",
+      "Vital",
+      "Xfer Records Serum 2"
+    ],
+    "category": "audio"
+  },
+  "Audiomodern Playbeat": {
+    "description": "Генеративная драм-машина: создаёт ритмические паттерны и управляет сэмплами в реальном времени.",
+    "isOpensource": false,
+    "repoUrl": "https://audiomodern.com/",
+    "alternatives": [
+      "XO",
+      "Atlas 2",
+      "Battery 4"
+    ],
+    "category": "audio"
+  },
+  "Audiomodern Riffer": {
+    "description": "MIDI-генератор риффов и мелодических паттернов для быстрого поиска музыкальных идей.",
+    "isOpensource": false,
+    "repoUrl": "https://audiomodern.com/",
+    "alternatives": [
+      "Scaler 2",
+      "Captain Chords",
+      "Cthulhu"
+    ],
+    "category": "audio"
+  },
+  "BEAM": {
+    "description": "Модульный инструмент Lunacy Audio для творческой обработки и эволюционирующих звуковых текстур.",
+    "isOpensource": false,
+    "repoUrl": "https://lunacy.audio/",
+    "alternatives": [
+      "Cableguys ShaperBox",
+      "Soundtoys Effect Rack"
+    ],
+    "category": "audio"
+  },
+  "BeatDrop": {
+    "description": "Небольшая утилита для музыкантов, ускоряющая работу с аудиофайлами и музыкальными проектами.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "audio"
+  },
+  "Bitwig Studio": {
+    "description": "Современная цифровая аудиостанция с модульной средой, клип-лаунчером и мощной автоматизацией.",
+    "isOpensource": false,
+    "repoUrl": "https://www.bitwig.com/",
+    "alternatives": [
+      "Ableton Live",
+      "FL Studio",
+      "REAPER"
+    ],
+    "category": "audio"
+  },
+  "DAWbro": {
+    "description": "Вспомогательный инструмент для организации работы с проектами и сессиями цифровой аудиостанции.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "audio"
+  },
+  "Fold EQ": {
+    "description": "Параметрический эквалайзер от Ridge Sound с удобным управлением полосами и музыкальным характером.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "FabFilter Pro-Q 3",
+      "TDR Nova",
+      "Equalizer APO"
+    ],
+    "category": "audio"
+  },
+  "HY-Plugins Sequencer Bundle": {
+    "description": "Набор MIDI-секвенсоров HY-Plugins для генерации мелодий, арпеджио и ритмических рисунков.",
+    "isOpensource": false,
+    "repoUrl": "https://hy-plugins.com",
+    "alternatives": [
+      "Scaler 2",
+      "Captain Chords",
+      "Cthulhu"
+    ],
+    "category": "audio"
+  },
+  "Imaginando Colapso": {
+    "description": "Креативный аудиоэффект Imaginando для разрушения, трансформации и оживления знакомых звуков.",
+    "isOpensource": false,
+    "repoUrl": "https://imaginando.pt",
+    "alternatives": [
+      "Cableguys ShaperBox",
+      "Soundtoys Effect Rack"
+    ],
+    "category": "audio"
+  },
+  "Instacomposer 3": {
+    "description": "Генератор музыкальных идей от W.A. Production: аккорды, мелодии и аранжировки прямо в DAW.",
+    "isOpensource": false,
+    "repoUrl": "https://www.waproduction.com",
+    "alternatives": [
+      "Scaler 2",
+      "Captain Chords",
+      "Melody Sauce 3"
+    ],
+    "category": "audio"
+  },
+  "Jonas Eriksson Phase Fiasco Bundle": {
+    "description": "Набор фазовых эффектов Phase Fiasco для движения, ширины и необычной обработки звука.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Soundtoys PhaseMistress",
+      "Cableguys ShaperBox"
+    ],
+    "category": "audio"
+  },
+  "Jura Trace": {
+    "description": "Аудиоинструмент juralabs с упором на выразительные тембры и удобное управление модуляцией.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "audio"
+  },
+  "KeySolutions Sounds Traveler": {
+    "description": "Библиотека инструментальных и атмосферных сэмплов для кино, игр и современных продюсеров.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Splice",
+      "Loopcloud"
+    ],
+    "category": "audio"
+  },
+  "LMMS": {
+    "description": "Бесплатная цифровая аудиостанция с секвенсором, синтезаторами и поддержкой плагинов для создания музыки.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/LMMS/lmms",
+    "alternatives": [
+      "Ableton Live",
+      "FL Studio",
+      "REAPER"
+    ],
+    "category": "audio"
+  },
+  "LOW": {
+    "description": "Инструмент Beatsurfing с фокусом на низких частотах, груве и саб-басовой части трека.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "SubLab",
+      "Vital"
+    ],
+    "category": "audio"
+  },
+  "Melody Sauce 3": {
+    "description": "ИИ-генератор мелодий от Evabeat, который создаёт идеи в выбранном жанре и сразу переносит их в MIDI.",
+    "isOpensource": false,
+    "repoUrl": "https://www.evabeat.com",
+    "alternatives": [
+      "Scaler 2",
+      "Captain Chords",
+      "Instacomposer 3"
+    ],
+    "category": "audio"
+  },
+  "MixDesk X": {
+    "description": "Утилита для управления микшером и рабочим пространством музыкальных приложений.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "audio"
+  },
+  "MorningDAW": {
+    "description": "Компактная цифровая аудиостанция от Morningdew Media для записи и сведения музыки.",
+    "isOpensource": false,
+    "repoUrl": "https://morningdewmedia.com",
+    "alternatives": [
+      "Ableton Live",
+      "FL Studio",
+      "REAPER"
+    ],
+    "category": "audio"
+  },
+  "NeuralNote": {
+    "description": "Открытый плагин транскрипции: распознаёт аудио и преобразует его в MIDI-ноты в реальном времени.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/DamRsn/NeuralNote",
+    "alternatives": [
+      "Melodyne",
+      "Basic Pitch",
+      "AnthemScore"
+    ],
+    "category": "audio"
+  },
+  "PhraseLab": {
+    "description": "MIDI-инструмент для генерации, вариации и организации музыкальных фраз и мелодических идей.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Scaler 2",
+      "Captain Chords",
+      "Cthulhu"
+    ],
+    "category": "audio"
+  },
+  "Polarity-GLUE": {
+    "description": "Аудиоэффект Polarity-Music для склейки микса и деликатной динамической обработки.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Cytomic The Glue",
+      "FabFilter Pro-C 2",
+      "TDR Kotelnikov"
+    ],
+    "category": "audio"
+  },
+  "Polarity-Recorder": {
+    "description": "Простой плагин записи звука от Polarity-Music для быстрого сохранения результатов работы.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Audacity",
+      "OBS Studio"
+    ],
+    "category": "audio"
+  },
+  "PolySWAM": {
+    "description": "Полифонический виртуальный инструмент Audio Modeling с выразительным физическим моделированием.",
+    "isOpensource": false,
+    "repoUrl": "https://audiomodeling.com/",
+    "alternatives": [
+      "Arturia Pigments",
+      "Vital",
+      "Phase Plant"
+    ],
+    "category": "audio"
+  },
+  "reFX Rippler": {
+    "description": "Творческий мультиэффект reFX для ритмических искажений, гейтинга и движения звука.",
+    "isOpensource": false,
+    "repoUrl": "https://refx.com/",
+    "alternatives": [
+      "Cableguys ShaperBox",
+      "Xfer Records LFOTool",
+      "A1TriggerGate"
+    ],
+    "category": "audio"
+  },
+  "Rhythmizer Ultra": {
+    "description": "Ритмический эффект Futurephonic с секвенсором громкости, фильтрами и креативной модуляцией.",
+    "isOpensource": false,
+    "repoUrl": "https://futurephonic.com/",
+    "alternatives": [
+      "Cableguys ShaperBox",
+      "reFX Rippler",
+      "Xfer Records LFOTool"
+    ],
+    "category": "audio"
+  },
+  "StepStrum": {
+    "description": "MIDI-инструмент для генерации щипковых аккордов и реалистичных гитарных паттернов.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Ample Guitar M",
+      "Scaler 2",
+      "Captain Chords"
+    ],
+    "category": "audio"
+  },
+  "Synthesizer V Studio 2 Core": {
+    "description": "Вокальный синтезатор Dreamtonics для создания выразительного пения из MIDI-нот и текста.",
+    "isOpensource": false,
+    "repoUrl": "https://dreamtonics.com/",
+    "alternatives": [
+      "VOCALOID",
+      "CeVIO AI",
+      "ACE Studio"
+    ],
+    "category": "audio"
+  },
+  "TC Electronic SYSTEM 6000 NATIVE Bundle": {
+    "description": "Набор нативных портов легендарных процессоров SYSTEM 6000 для реверберации и мастеринга.",
+    "isOpensource": false,
+    "repoUrl": "https://www.tcelectronic.com/",
+    "alternatives": [
+      "Valhalla VintageVerb",
+      "FabFilter Pro-R 2",
+      "LiquidSonics Seventh Heaven"
+    ],
+    "category": "audio"
+  },
+  "u-he Zebra3": {
+    "description": "Модульный синтезатор u-he с гибкой маршрутизацией, богатой модуляцией и огромным диапазоном звуков.",
+    "isOpensource": false,
+    "repoUrl": "https://u-he.com/",
+    "alternatives": [
+      "Arturia Pigments",
+      "Phase Plant",
+      "Vital"
+    ],
+    "category": "audio"
+  },
+  "Xfer Records Serum 2": {
+    "description": "Мощный таблично-волновой синтезатор с визуальным редактором, сэмплами и продвинутыми эффектами.",
+    "isOpensource": false,
+    "repoUrl": "https://xferrecords.com/",
+    "alternatives": [
+      "Vital",
+      "Massive X",
+      "Arturia Pigments"
+    ],
+    "category": "audio"
+  },
+  "XO Sample Graph": {
+    "description": "Инструмент для организации сэмплов по звучанию и поиска похожих библиотек в графическом пространстве.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Atlas 2",
+      "Splice",
+      "Loopcloud"
+    ],
+    "category": "audio"
+  },
+  "Cutout": {
+    "description": "Локальная утилита для быстрого вырезания объектов на изображениях и подготовки прозрачных PNG.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Adobe Photoshop",
+      "remove.bg",
+      "GIMP"
+    ],
+    "category": "graphics"
+  },
+  "OBS Studio": {
+    "description": "Открытая программа для записи экрана и трансляций с переключением сцен, источниками и микшером.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/obsproject/obs-studio",
+    "alternatives": [
+      "XSplit Broadcaster",
+      "Streamlabs Desktop",
+      "vMix"
+    ],
+    "category": "graphics"
+  },
+  "Paintstorm Studio": {
+    "description": "Профессиональная программа цифровой живописи с настраиваемыми кистями и поддержкой графических планшетов.",
+    "isOpensource": false,
+    "repoUrl": "https://paintstormstudio.com",
+    "alternatives": [
+      "Clip Studio Paint",
+      "Corel Painter",
+      "Krita"
+    ],
+    "category": "graphics"
+  },
+  "PhotoScape X Pro": {
+    "description": "Универсальный редактор фотографий: ретушь, коллажи, пакетная обработка и создание анимаций.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Adobe Photoshop",
+      "Affinity Photo",
+      "GIMP"
+    ],
+    "category": "graphics"
+  },
+  "PhotoSuite": {
+    "description": "Небольшой набор инструментов для базовой обработки и упорядочивания фотографий.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "GIMP",
+      "PhotoScape X Pro",
+      "Affinity Photo"
+    ],
+    "category": "graphics"
+  },
+  "Realistic Paint Studio": {
+    "description": "Программа для живописи с эффектом реальных материалов и реалистичной имитацией масла, акварели и графики.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Corel Painter",
+      "Rebelle",
+      "Clip Studio Paint"
+    ],
+    "category": "graphics"
+  },
+  "Shotcut": {
+    "description": "Свободный видеоредактор с поддержкой множества форматов, таймлайном, фильтрами и записью экрана.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/mltframework/shotcut",
+    "alternatives": [
+      "DaVinci Resolve",
+      "Kdenlive",
+      "Adobe Premiere Pro"
+    ],
+    "category": "graphics"
+  },
+  "Spout 2 OBS Plugin": {
+    "description": "Плагин OBS для приёма и передачи видеотекстур между программами через протокол Spout.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/Off-World-Live/obs-spout2-plugin",
+    "alternatives": [
+      "NDI Tools",
+      "Syphon"
+    ],
+    "category": "graphics"
+  },
+  "TouchDesigner": {
+    "description": "Среда визуального программирования для интерактивной графики, медиаинсталляций и генеративного дизайна.",
+    "isOpensource": false,
+    "repoUrl": "https://derivative.ca/",
+    "alternatives": [
+      "vvvv",
+      "Notch",
+      "Max/MSP"
+    ],
+    "category": "graphics"
+  },
+  "VideoCull": {
+    "description": "Инструмент для просмотра, отбора и сортировки большого количества видеоматериала перед монтажом.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Adobe Bridge",
+      "Kyno",
+      "DaVinci Resolve"
+    ],
+    "category": "graphics"
+  },
+  "Ollama": {
+    "description": "Локальный запуск больших языковых моделей одной командой с удобным API для интеграции в приложения.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/ollama/ollama",
+    "alternatives": [
+      "LM Studio",
+      "Jan",
+      "LocalAI"
+    ],
+    "category": "ai"
+  },
+  "Langflow": {
+    "description": "Визуальный конструктор AI-приложений и пайплайнов на основе языковых моделей, инструментов и агентов.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/langflow-ai/langflow",
+    "alternatives": [
+      "Flowise",
+      "n8n",
+      "Dify"
+    ],
+    "category": "ai"
+  },
+  "DeepSeek Harness": {
+    "description": "Экспериментальный инструмент DeepSeek для локального запуска и оценки моделей через удобный интерфейс.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "LM Studio",
+      "Ollama",
+      "Jan"
+    ],
+    "category": "ai"
+  },
+  "Oh My HuggingFace": {
+    "description": "Набор утилит для поиска, загрузки и управления моделями из экосистемы Hugging Face.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Hugging Face Hub",
+      "Ollama"
+    ],
+    "category": "ai"
+  },
+  "OpenKnowledge": {
+    "description": "Локальная база знаний с AI-поиском по документам и заметкам, созданная командой Inkeep.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Obsidian",
+      "Logseq",
+      "AnythingLLM"
+    ],
+    "category": "ai"
+  },
+  "7-Zip": {
+    "description": "Архиватор с высокой степенью сжатия и поддержкой форматов 7z, ZIP, RAR, TAR и многих других.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/ip7z/7zip",
+    "alternatives": [
+      "WinRAR",
+      "PeaZip",
+      "NanaZip"
+    ],
+    "category": "system"
+  },
+  "Disk Cleanup Helper": {
+    "description": "Утилита для поиска и удаления временных файлов, кэшей и другого мусора на диске.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "BleachBit",
+      "CCleaner",
+      "Windows Storage Sense"
+    ],
+    "category": "system"
+  },
+  "Everything": {
+    "description": "Мгновенный поиск файлов и папок по индексу NTFS с фильтрами и сортировкой в реальном времени.",
+    "isOpensource": false,
+    "repoUrl": "https://www.voidtools.com/",
+    "alternatives": [
+      "Listary",
+      "Flow Launcher",
+      "Wox"
+    ],
+    "category": "system"
+  },
+  "Flow Launcher": {
+    "description": "Лаунчер для Windows с поиском приложений, файлов и быстрыми командами через горячую клавишу.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/Flow-Launcher/Flow.Launcher",
+    "alternatives": [
+      "PowerToys Run",
+      "Everything",
+      "Kando"
+    ],
+    "category": "system"
+  },
+  "Helium": {
+    "description": "Минималистичный браузер с чистым интерфейсом, встроенной блокировкой рекламы и небольшим потреблением памяти.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/imputnet/helium",
+    "alternatives": [
+      "Brave",
+      "Firefox",
+      "Chromium"
+    ],
+    "category": "system"
+  },
+  "HiBit Uninstaller": {
+    "description": "Мощный деинсталлятор с удалением остатков программ, управлением автозагрузкой и очисткой системы.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Revo Uninstaller",
+      "Geek Uninstaller",
+      "BCUninstaller"
+    ],
+    "category": "system"
+  },
+  "HOTS Uninstaller": {
+    "description": "Небольшая утилита для удаления приложений и поиска оставшихся после них файлов и записей.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Revo Uninstaller",
+      "Geek Uninstaller",
+      "BCUninstaller"
+    ],
+    "category": "system"
+  },
+  "HuionTablet": {
+    "description": "Драйвер и панель настройки графических планшетов Huion: давление пера, кнопки и рабочая область.",
+    "isOpensource": false,
+    "repoUrl": "https://www.huion.com/",
+    "alternatives": [
+      "Wacom Tablet",
+      "XP-Pen Pentablet",
+      "OpenTabletDriver"
+    ],
+    "category": "system"
+  },
+  "Kando": {
+    "description": "Круговое меню для быстрого запуска действий, приложений и горячих клавиш с помощью мыши или пера.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/kando-menu/kando",
+    "alternatives": [
+      "Flow Launcher",
+      "PowerToys Run",
+      "RadialMenu"
+    ],
+    "category": "system"
+  },
+  "Minitorrent": {
+    "description": "Компактный торрент-клиент для загрузки и раздачи файлов без лишних настроек.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "qBittorrent",
+      "Transmission",
+      "Deluge"
+    ],
+    "category": "system"
+  },
+  "Punto Switcher": {
+    "description": "Автоматически переключает раскладку клавиатуры и исправляет текст, набранный не в той языковой раскладке.",
+    "isOpensource": false,
+    "repoUrl": "https://yandex.ru/soft/punto/",
+    "alternatives": [
+      "Key Switcher",
+      "Mahou",
+      "PowerToys Keyboard Manager"
+    ],
+    "category": "system"
+  },
+  "qBittorrent": {
+    "description": "Свободный торрент-клиент с поисковиком, планировщиком, RSS и поддержкой удалённого управления.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/qbittorrent/qBittorrent",
+    "alternatives": [
+      "Transmission",
+      "Deluge",
+      "Tixati"
+    ],
+    "category": "system"
+  },
+  "Sigma File Manager": {
+    "description": "Современный файловый менеджер с вкладками, быстрым поиском и расширяемым интерфейсом.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/aleksey-hoffman/sigma-file-manager",
+    "alternatives": [
+      "Files",
+      "Directory Opus",
+      "Total Commander"
+    ],
+    "category": "system"
+  },
+  "SnapTray": {
+    "description": "Утилита для быстрых снимков экрана, аннотаций и сохранения изображений из системного трея.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "ShareX",
+      "Snagit",
+      "Flameshot"
+    ],
+    "category": "system"
+  },
+  "Task Manager TMOG": {
+    "description": "Расширенный менеджер процессов и ресурсов с дополнительными возможностями мониторинга системы.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "Process Explorer",
+      "System Informer",
+      "Process Hacker"
+    ],
+    "category": "system"
+  },
+  "Wingetix": {
+    "description": "Графическая оболочка для управления пакетами Windows через winget: поиск, установка и обновления.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "UniGetUI",
+      "Chocolatey GUI",
+      "Scoop"
+    ],
+    "category": "system"
+  },
+  "Windhawk": {
+    "description": "Платформа модов для настройки Windows: меняет поведение проводника, панели задач и других компонентов.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/ramensoftware/windhawk",
+    "alternatives": [
+      "ExplorerPatcher",
+      "Open-Shell",
+      "StartAllBack"
+    ],
+    "category": "system"
+  },
+  "Figma": {
+    "description": "Браузерный инструмент дизайна интерфейсов и прототипирования с совместной работой в реальном времени.",
+    "isOpensource": false,
+    "repoUrl": "https://www.figma.com/",
+    "alternatives": [
+      "Penpot",
+      "Sketch",
+      "Adobe XD"
+    ],
+    "category": "internet"
+  },
+  "Google": {
+    "description": "Компонент экосистемы Google для быстрого доступа к сервисам и синхронизации на компьютере.",
+    "isOpensource": false,
+    "repoUrl": "https://www.google.com/",
+    "alternatives": [
+      "Firefox",
+      "Brave",
+      "Chromium"
+    ],
+    "category": "internet"
+  },
+  "Hotspot Shield": {
+    "description": "VPN-клиент для шифрования соединения, скрытия IP и доступа к сервисам через защищённый туннель.",
+    "isOpensource": false,
+    "repoUrl": "https://www.hotspotshield.com/",
+    "alternatives": [
+      "Proton VPN",
+      "Mullvad VPN",
+      "WireGuard"
+    ],
+    "category": "internet"
+  },
+  "Telegram Desktop": {
+    "description": "Клиент мессенджера Telegram для Windows с облачными чатами, медиа, звонками и секретными диалогами.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/telegramdesktop/tdesktop",
+    "alternatives": [
+      "Discord",
+      "Signal",
+      "Element"
+    ],
+    "category": "internet"
+  },
+  "Yandex": {
+    "description": "Компоненты экосистемы Яндекс.Браузера для быстрого доступа к поиску и сервисам компании.",
+    "isOpensource": false,
+    "repoUrl": "https://browser.yandex.ru/",
+    "alternatives": [
+      "Google Chrome",
+      "Firefox",
+      "Brave"
+    ],
+    "category": "internet"
+  },
+  "Кнопки сервисов Яндекса на панели задач": {
+    "description": "Системный компонент, добавляющий быстрый доступ к сервисам Яндекса на панель задач Windows.",
+    "isOpensource": false,
+    "repoUrl": "https://yandex.ru/",
+    "alternatives": [
+      "Flow Launcher",
+      "PowerToys Run"
+    ],
+    "category": "internet"
+  },
+  "Авест CSP BEL": {
+    "description": "Криптографический провайдер Авест для работы с электронной подписью и защищёнными соединениями.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "КриптоПро CSP",
+      "VipNet CSP",
+      "OpenSSL"
+    ],
+    "category": "security"
+  },
+  "Персональный менеджер сертификатов Авест": {
+    "description": "Хранилище и менеджер личных сертификатов Авест для установки, просмотра и управления ключами.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "КриптоПро CSP",
+      "OpenSSL",
+      "GnuPG"
+    ],
+    "category": "security"
+  },
+  "AvCMXWebP AllUsers": {
+    "description": "Веб-компонент Авест для работы с сертификатами и криптографическими операциями во всех профилях пользователей.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "КриптоПро ЭЦП Browser plug-in",
+      "Авест CSP BEL"
+    ],
+    "category": "security"
+  },
+  "G-SecTLS": {
+    "description": "Компонент защищённого TLS-соединения от НИИ ТЗИ для работы с российскими криптографическими сервисами.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "OpenSSL",
+      "GnuTLS",
+      "stunnel"
+    ],
+    "category": "security"
+  },
+  "NT Client Software": {
+    "description": "Клиентское программное обеспечение НИИ ТЗИ для работы с защищёнными сервисами и сертификатами.",
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [
+      "OpenSSL",
+      "GnuPG"
+    ],
+    "category": "security"
+  },
+  "Dewiar": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "Freebuff": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "LANORA": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "LYNX SHARE": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "MD-Converter": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "MDZip Studio": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "murmure": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "NectarLink": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "OmniRoute": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "Openscreen": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "Orfeo": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "PecoFence": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "Route Map": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "SampleGraph": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "Sandyne": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "Sting": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "Tolaria": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "Vibseek Studio": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "ZuBrIQ Desktop": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "Trilium Notes": {
+    "description": "Иерархическая база знаний для заметок с деревом страниц, атрибутами и шифрованием.",
+    "isOpensource": true,
+    "repoUrl": "https://github.com/zadam/trilium",
+    "alternatives": [
+      "Obsidian",
+      "Logseq"
+    ],
+    "category": "system"
+  },
+  "OxidVault": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "SpaceWalk": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  },
+  "TiXL-RU": {
+    "description": null,
+    "isOpensource": false,
+    "repoUrl": null,
+    "alternatives": [],
+    "category": "other"
+  }
+}
