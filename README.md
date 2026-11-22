@@ -3,7 +3,7 @@
 Каталог установленных программ для Windows: сканер реестра, запуск, удаление
 и карточки приложений.
 
-![Скриншот AppDeck](docs/screenshots/appdeck-main.png)
+[Скриншот AppDeck](docs/screenshots/appdeck-main.png)
 
 ## Что это
 
