@@ -24,3 +24,6 @@ Thumbs.db
 # Конфигурации редакторов
 .vscode/
 .idea/
+
+docs/screenshots/*
+!docs/screenshots/appdeck-main.png
